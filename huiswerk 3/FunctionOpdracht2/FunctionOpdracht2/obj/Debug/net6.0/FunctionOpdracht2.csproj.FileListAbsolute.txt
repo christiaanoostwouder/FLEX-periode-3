@@ -1,0 +1,15 @@
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\obj\Debug\net6.0\FunctionOpdracht2.csproj.AssemblyReference.cache
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\obj\Debug\net6.0\FunctionOpdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\obj\Debug\net6.0\FunctionOpdracht2.AssemblyInfoInputs.cache
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\obj\Debug\net6.0\FunctionOpdracht2.AssemblyInfo.cs
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\obj\Debug\net6.0\FunctionOpdracht2.csproj.CoreCompileInputs.cache
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\bin\Debug\net6.0\FunctionOpdracht2.exe
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\bin\Debug\net6.0\FunctionOpdracht2.deps.json
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\bin\Debug\net6.0\FunctionOpdracht2.runtimeconfig.json
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\bin\Debug\net6.0\FunctionOpdracht2.dll
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\bin\Debug\net6.0\FunctionOpdracht2.pdb
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\obj\Debug\net6.0\FunctionOpdracht2.dll
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\obj\Debug\net6.0\refint\FunctionOpdracht2.dll
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\obj\Debug\net6.0\FunctionOpdracht2.pdb
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\obj\Debug\net6.0\FunctionOpdracht2.genruntimeconfig.cache
+C:\Users\oostw\Downloads\FunctionOpdracht (1)\FunctionOpdracht2\FunctionOpdracht2\obj\Debug\net6.0\ref\FunctionOpdracht2.dll
