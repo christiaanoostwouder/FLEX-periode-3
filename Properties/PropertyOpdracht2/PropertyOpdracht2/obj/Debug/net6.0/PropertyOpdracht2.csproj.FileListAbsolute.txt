@@ -1,0 +1,5 @@
+C:\Users\oostw\Downloads\PropertyOpdracht (4)\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.csproj.AssemblyReference.cache
+C:\Users\oostw\Downloads\PropertyOpdracht (4)\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oostw\Downloads\PropertyOpdracht (4)\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.AssemblyInfoInputs.cache
+C:\Users\oostw\Downloads\PropertyOpdracht (4)\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.AssemblyInfo.cs
+C:\Users\oostw\Downloads\PropertyOpdracht (4)\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.csproj.CoreCompileInputs.cache
