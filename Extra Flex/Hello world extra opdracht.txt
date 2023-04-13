@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Hello World extra opdracht, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Hello World extra opdracht -> C:\Users\oostw\source\repos\Hello World extra opdracht\Hello World extra opdracht\bin\Debug\net7.0\Hello World extra opdracht.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:01,121 ==========
